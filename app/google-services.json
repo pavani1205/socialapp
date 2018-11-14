@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378119461005",
+    "firebase_url": "https://iuthink-f9e27.firebaseio.com",
+    "project_id": "iuthink-f9e27",
+    "storage_bucket": "iuthink-f9e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378119461005:android:c65db6f592e77b54",
+        "android_client_info": {
+          "package_name": "com.example.pavani.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378119461005-e6fp483oahtbhb4oo7mtquiv7pvt8nqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pavani.socialapp",
+            "certificate_hash": "8315442a5cfb4d7c095f32c5e53c9e4da1af628c"
+          }
+        },
+        {
+          "client_id": "378119461005-2q84q9j0vvhocbc78af4g07u749i89p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yxQ6f3_aHRQBSIZOIJZNBXzNjYlflV8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378119461005-2q84q9j0vvhocbc78af4g07u749i89p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

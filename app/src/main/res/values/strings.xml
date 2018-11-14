@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IuThink</string>
+    <string name="enter">Please enter phone number for verification</string>
+    <string name="send">Send</string>
+    <string name="enter2">Please enter the verification code</string>
+    <string name="next">next</string>
+    <string name="finish">Finish Signup</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
